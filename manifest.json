@@ -1,0 +1,22 @@
+{
+	"name": "WFM_Status",
+	"author": {
+		"name": "Eric Dahl",
+		"email": "edahl@groupon.com",
+		"url": ""
+	},
+	"defaultLocale": "en",
+	"private": true,
+	"location": "top_bar",
+	"version": "1.0",
+	"frameworkVersion": "1.0",
+	"parameters": [{
+		"name": "wfm_server",
+		"type": "text",
+		"required": true
+	}, {
+		"name": "token",
+		"type": "text",
+		"required": true
+	}]
+}

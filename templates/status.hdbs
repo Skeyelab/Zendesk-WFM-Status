@@ -1,0 +1,3 @@
+Status: {{state}}<br/>
+Last Ping: {{last_ping}}<br/>
+from ticket: {{ticket}}
